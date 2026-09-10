@@ -21,3 +21,5 @@ Variables:
 - Ramasser la plante bleue
 - Avoir les trois plantes : obtenir le scroll
 - Avoir le scroll: Accomplir 
+
+manque danger et sc`ne
