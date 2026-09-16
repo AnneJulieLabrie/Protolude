@@ -17,7 +17,7 @@ Obtenir un parchemin afin que le garde à la fin du village laisse le joueur pas
 3. Sortir de la maisom
 
 ### Finir le jeu
-1. Aller parler au garde avec le parchemin, celui-ci laisseras désormais le joueur passer.
+Une fois le parchemin obtenu, il suffit simplement d'aller parler au garde, celui-ci laisseras désormais le joueur passer.
 
 ### Danger
 Si le joueur tombe dans l'eau il meurt, il faut donc tout recommencé depuis le début.
