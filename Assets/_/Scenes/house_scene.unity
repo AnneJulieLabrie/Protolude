@@ -242,7 +242,7 @@ Transform:
   m_GameObject: {fileID: 103363718}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.20000091, y: 0.445, z: -1.0051247}
+  m_LocalPosition: {x: 0.20000091, y: 0.445, z: -0.9984304}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -960,7 +960,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 481836, guid: d6bd438face5064429592ccc1fbb235b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.0908699
+      value: -0.041
       objectReference: {fileID: 0}
     - target: {fileID: 481836, guid: d6bd438face5064429592ccc1fbb235b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1977,7 +1977,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.SceneAction
   operation: 0
   sceneAsset: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
-  scenePath: Assets/_/Scenes/scene_1.unity
+  scenePath: Assets/_/Scenes/main_scene.unity
   additive: 0
 --- !u!114 &724978395
 MonoBehaviour:
@@ -3900,7 +3900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.SceneAction
   operation: 0
   sceneAsset: {fileID: 102900000, guid: a935c7b8ed54427429ed87fdf17d6608, type: 3}
-  scenePath: Assets/_/Scenes/scene_2.unity
+  scenePath: Assets/_/Scenes/house_scene.unity
   additive: 0
 --- !u!1001 &1245854118
 PrefabInstance:
@@ -5232,7 +5232,7 @@ Transform:
   m_GameObject: {fileID: 1696899394}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.20000091, y: 0.445, z: -1.0051247}
+  m_LocalPosition: {x: 0.20000091, y: 0.445, z: -0.9984304}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
