@@ -1,25 +1,20 @@
-Idée
+## Objectif
+Obtenir un parchemin pour que le garde à la fin du village laisse le joueur passer au prochain niveau
 
-But : obtenir un scroll pour passer
+### Obtenir la plante rouge et la plante bleue pour les donner au marchand
+1. Ramasser la hache
+2. Couper un arbre pour obtenir du bois
+3. Parler au NPC à la première maison pour obtenir un panier 
+4. Aller chercher de l'eau au puit (la plante s'y trouve également)
+5. Parler au NPC à la deuxième maison pour faire pousser la plante
+6. Ramasser la plante rouge
+7. Donner les deux plantes au marchand
 
-Le marchand veut: Une rose, une rose bleue or wtv e qqch d'autre
+### Obtenir le parchemin
+1. Entrer dans la maison du marchand
+2. Ramasser le parchemin
+3. Sortir de la maisom
 
-1. Couper du bois pour fabriquer un basket - danger, noyer si vas dajsnl'eau
-2. Aller chercher de l'eau au puit pour faire pousser la rose (cueillir la fleur bleue par la même occasion)
-3. ...
-4. Donner tout au marchand et obtenir le scroll
-5. Aller voir le chevalier et passer
-   Si pas de scroll, le chevalier tue(?)
+### Finir le jeu
+1. Aller parler au garde avec le parchemin, celui-ci nous laissera désormais passer.
 
-
-
-Variables:
-- Obtenir hache : couper du bois
-- Obtenir du bois : fabriquer un basket
-- Obtenir de un basket : ramasser de l'eau
-- Utiliser l'eau pour faire pousser la plante rouge
-- Ramasser la plante bleue
-- Avoir les trois plantes : obtenir le scroll
-- Avoir le scroll: Accomplir 
-
-manque danger et sc`ne
