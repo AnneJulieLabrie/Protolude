@@ -14,7 +14,7 @@ Obtenir un parchemin afin que le garde à la fin du village laisse le joueur pas
 ### Obtenir le parchemin
 1. Entrer dans la maison du marchand
 2. Ramasser le parchemin
-3. Sortir de la maisom
+3. Sortir de la maison
 
 ### Finir le jeu
 Une fois le parchemin obtenu, il suffit simplement d'aller parler au garde, celui-ci laisseras désormais le joueur passer.
